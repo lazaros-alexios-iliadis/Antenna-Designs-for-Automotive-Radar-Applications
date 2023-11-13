@@ -11,3 +11,5 @@ The optimization folder contains the following algorithms, which have been parti
 2) jSO algorithm
   J. Brest, M. S. Maučec and B. Bošković, "Single objective real-parameter optimization: Algorithm jSO," 2017 IEEE Congress on Evolutionary Computation (CEC),
   Donostia, Spain, 2017, pp. 1311-1318, doi: 10.1109/CEC.2017.7969456.
+
+The .aedt files contain examples of the results obtained from the optimization algorithms.
