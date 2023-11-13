@@ -4,7 +4,7 @@ The scripts are written in MATLAB, and the MATLAB-HFSS api is utilized with few 
 The Antennas folder contains an 1x5 array with bowtie patches and aperture coupled feed for automotive radar applications (79 GHz)
 and an 1x5 array with U-shaped patches and aperture coupled feed for automotive radar applications (79 GHz).
 
-The optimization folder contains the following algorithms:
+The optimization folder contains the following algorithms, which have been partially rewritten for our purposes:
 1) RUN beyond metaphor algorithm
   Ahmadianfar, Iman, Ali Asghar Heidari, Amir H. Gandomi, Xuefeng Chu, and Huiling Chen. "RUN beyond the metaphor: an efficient optimization algorithm based on Runge Kutta method." 
   Expert Systems with Applications 181 (2021): 115079. DOI: https://doi.org/10.1016/j.eswa.2021.115079
