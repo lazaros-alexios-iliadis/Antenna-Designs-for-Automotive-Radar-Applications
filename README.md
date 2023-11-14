@@ -1,5 +1,5 @@
 # Antenna-Design
-Antenna design using different evolutionary and swarm intelligence algorithms.
+Antenna designs for automotive radar applications using different evolutionary and swarm intelligence algorithms.
 The scripts are written in MATLAB, and the MATLAB-HFSS api is utilized with few modifications.
 The Antennas folder contains an 1x5 array with bowtie patches and aperture coupled feed for automotive radar applications (79 GHz)
 and an 1x5 array with U-shaped patches and aperture coupled feed for automotive radar applications (79 GHz).
