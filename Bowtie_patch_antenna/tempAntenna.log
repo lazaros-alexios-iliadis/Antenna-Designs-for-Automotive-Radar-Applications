@@ -1,0 +1,80 @@
+ 
+ANSYS Electronics Desktop Version 2017.0.0, Build: 2016-12-05 15:24:15
+Location: C:\Program Files\AnsysEM\AnsysEM18.0\Win64\ansysedt.exe
+Batch Script: D:/Research/simulations/2023-iWAT/aperture_coupling/FinalDesign/tempAntenna.vbs
+Starting Batch Run: 6:31:53 μμ  Ιαν 06, 2023
+Running as user: PROMETHEUS\iliadis
+Temp directory: C:\Users\Public\Temp
+Project directory: C:\Users\iliadis\Documents\Ansoft
+-- Message Window --
+      tempAntenna (D:/Research/simulations/2023-iWAT/aperture_coupling/FinalDesign/)
+        bowtie (DrivenModal)
+          [info] A discrete frequency sweep with 1 point(s) has been started using HFSS. (6:44:43 μμ  Ιαν 06, 2023)
+          [info] Discrete frequency sweep complete. (6:44:43 μμ  Ιαν 06, 2023)
+          [info] Normal completion of simulation on server: Local Machine. (6:44:43 μμ  Ιαν 06, 2023)
+-- Message Window --
+Stopping Batch Run: 6:44:47 μμ  Ιαν 06, 2023
+ 
+ANSYS Electronics Desktop Version 2017.0.0, Build: 2016-12-05 15:24:15
+Location: C:\Program Files\AnsysEM\AnsysEM18.0\Win64\ansysedt.exe
+Batch Script: D:/Research/simulations/2023-iWAT/aperture_coupling/FinalDesign/tempAntenna.vbs
+Starting Batch Run: 7:58:21 μμ  Ιαν 06, 2023
+Running as user: PROMETHEUS\iliadis
+Temp directory: C:\Users\Public\Temp
+Project directory: C:\Users\iliadis\Documents\Ansoft
+-- Message Window --
+      tempAntenna (D:/Research/simulations/2023-iWAT/aperture_coupling/FinalDesign/)
+        bowtie (DrivenModal)
+          [info] A discrete frequency sweep with 1 point(s) has been started using HFSS. (8:09:20 μμ  Ιαν 06, 2023)
+          [info] Discrete frequency sweep complete. (8:09:20 μμ  Ιαν 06, 2023)
+          [info] Normal completion of simulation on server: Local Machine. (8:09:20 μμ  Ιαν 06, 2023)
+-- Message Window --
+Stopping Batch Run: 8:09:24 μμ  Ιαν 06, 2023
+ 
+ANSYS Electronics Desktop Version 2017.0.0, Build: 2016-12-05 15:24:15
+Location: C:\Program Files\AnsysEM\AnsysEM18.0\Win64\ansysedt.exe
+Batch Script: D:/Research/simulations/2023-iWAT/aperture_coupling/FinalDesign/tempAntenna.vbs
+Starting Batch Run: 4:33:27 μμ  Ιαν 07, 2023
+Running as user: PROMETHEUS\iliadis
+Temp directory: C:\Users\Public\Temp
+Project directory: C:\Users\iliadis\Documents\Ansoft
+-- Message Window --
+      tempAntenna (D:/Research/simulations/2023-iWAT/aperture_coupling/FinalDesign/)
+        bowtie (DrivenModal)
+          [info] A discrete frequency sweep with 1 point(s) has been started using HFSS. (4:45:51 μμ  Ιαν 07, 2023)
+          [info] Discrete frequency sweep complete. (4:45:51 μμ  Ιαν 07, 2023)
+          [info] Normal completion of simulation on server: Local Machine. (4:45:51 μμ  Ιαν 07, 2023)
+-- Message Window --
+Stopping Batch Run: 4:45:55 μμ  Ιαν 07, 2023
+ 
+ANSYS Electronics Desktop Version 2017.0.0, Build: 2016-12-05 15:24:15
+Location: C:\Program Files\AnsysEM\AnsysEM18.0\Win64\ansysedt.exe
+Batch Script: D:/Research/simulations/2023-iWAT/aperture_coupling/FinalDesign/tempAntenna.vbs
+Starting Batch Run: 8:14:03 μμ  Ιαν 09, 2023
+Running as user: PROMETHEUS\iliadis
+Temp directory: C:\Users\Public\Temp
+Project directory: C:\Users\iliadis\Documents\Ansoft
+-- Message Window --
+      tempAntenna (D:/Research/simulations/2023-iWAT/aperture_coupling/FinalDesign/)
+        bowtie (DrivenModal)
+          [info] A discrete frequency sweep with 1 point(s) has been started using HFSS. (8:24:36 μμ  Ιαν 09, 2023)
+          [info] Discrete frequency sweep complete. (8:24:36 μμ  Ιαν 09, 2023)
+          [info] Normal completion of simulation on server: Local Machine. (8:24:36 μμ  Ιαν 09, 2023)
+-- Message Window --
+Stopping Batch Run: 8:24:39 μμ  Ιαν 09, 2023
+ 
+ANSYS Electronics Desktop Version 2017.0.0, Build: 2016-12-05 15:24:15
+Location: C:\Program Files\AnsysEM\AnsysEM18.0\Win64\ansysedt.exe
+Batch Script: D:/Research/simulations/2023-iWAT/aperture_coupling/FinalDesign/tempAntenna.vbs
+Starting Batch Run: 9:05:36 μμ  Ιαν 09, 2023
+Running as user: PROMETHEUS\iliadis
+Temp directory: C:\Users\Public\Temp
+Project directory: C:\Users\iliadis\Documents\Ansoft
+-- Message Window --
+      tempAntenna (D:/Research/simulations/2023-iWAT/aperture_coupling/FinalDesign/)
+        bowtie (DrivenModal)
+          [info] A discrete frequency sweep with 1 point(s) has been started using HFSS. (9:16:56 μμ  Ιαν 09, 2023)
+          [info] Discrete frequency sweep complete. (9:16:56 μμ  Ιαν 09, 2023)
+          [info] Normal completion of simulation on server: Local Machine. (9:16:56 μμ  Ιαν 09, 2023)
+-- Message Window --
+Stopping Batch Run: 9:16:59 μμ  Ιαν 09, 2023
