@@ -1,0 +1,18 @@
+ 
+ANSYS Electronics Desktop Version 2017.0.0, Build: 2016-12-05 15:24:15
+Location: C:\Program Files\AnsysEM\AnsysEM18.0\Win64\ansysedt.exe
+Batch Script: D:/Research/simulations/Lazaros/2024-EuCAP/Automotive_radar/U_shaped/test/trial7/vector1/tempAntenna.vbs
+Starting Batch Run: 7:56:29 πμ  Οκτ 09, 2023
+Running as user: PROMETHEUS\iliadis
+Temp directory: C:\Users\Public\Temp
+Project directory: C:\Users\iliadis\Documents\Ansoft
+-- Message Window --
+      *Global - Messages
+        [info] Window "Project236 - mmWaveAntenna - Modeler" has been closed to avoid display Instability  Please reopen
+      tempAntenna (D:/Research/simulations/Lazaros/2024-EuCAP/Automotive_radar/U_shaped/test/trial7/vector1/)
+        mmWaveAntenna (DrivenModal)
+          [info] A discrete frequency sweep with 1 point(s) has been started using HFSS. (8:33:34 πμ  Οκτ 09, 2023)
+          [info] Discrete frequency sweep complete. (8:33:34 πμ  Οκτ 09, 2023)
+          [info] Normal completion of simulation on server: Local Machine. (8:33:34 πμ  Οκτ 09, 2023)
+-- Message Window --
+Stopping Batch Run: 8:33:38 πμ  Οκτ 09, 2023
